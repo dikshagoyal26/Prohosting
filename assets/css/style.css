@@ -276,6 +276,9 @@ footer .ftr_end{
         text-align: center;
         margin: auto;
     }
+     section #carouselExampleIndicators img{
+        height: 340px;
+    }
 }
 @media(max-width:575px){
     .section2 .data div{
